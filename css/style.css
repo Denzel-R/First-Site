@@ -1,22 +1,22 @@
 @font-face {
   font-family: QuiteChocolatey;
-  src: url(fonts/QuiteChocolatey-3jyL.ttf);
+  src: url(../fonts/QuiteChocolatey-3jyL.ttf);
 }
 @font-face {
   font-family: Montserrat Regular;
-  src: url(fonts/MontserratRegular-BWBEl.ttf);
+  src: url(../fonts/MontserratRegular-BWBEl.ttf);
 }
 @font-face {
   font-family: Montserrat Bold;
-  src: url(fonts/MontserratBold-DOWZd.ttf);
+  src: url(../fonts/MontserratBold-DOWZd.ttf);
 }
 @font-face {
   font-family: PTSerif;
-  src: url(fonts/PTSerif-Regular.ttf);
+  src: url(../fonts/PTSerif-Regular.ttf);
 }
 @font-face {
   font-family: Couture;
-  src: url(fonts/couture-bld.otf);
+  src: url(../fonts/couture-bld.otf);
 }
 * {
   box-sizing: border-box;
@@ -28,7 +28,7 @@ a{
   text-decoration: none;
 }
 .header {
-  background-image: url(img/Layer\ 13.png);
+  background-image: url(../img/Layer\ 13.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
